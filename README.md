@@ -1,16 +1,6 @@
-# flappybird
+A simple Flappy Bird-style game in Flutter
+====================================
 
-A new Flutter project.
+This game is the byproduct of my early trials coding with ChatGPT. This game has a simple graphic just to imitate the Flappy Bird game with the least packages possible.
 
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+My approach was to write this code the native Flutter way.
